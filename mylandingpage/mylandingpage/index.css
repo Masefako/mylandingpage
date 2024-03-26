@@ -1,5 +1,7 @@
-body {
-    font-family: Arial, sans-serif;
+body { 
+    font-family: "Roboto Serif", serif;
+    font-weight: 650;
+    font-style: normal;
     background-image: url(background1.jpg);
     background-size: 100%;
     max-width: 100%;
@@ -9,7 +11,6 @@ body {
 #my_content {
     display: block;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 20px 20px;
 
 }
@@ -97,3 +98,4 @@ footer {
         font-size: 12px;
     }
 }
+
